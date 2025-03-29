@@ -6,7 +6,7 @@ This project is a **Deep Learning-based Traffic Sign Classifier** built with **T
 ✔️ **Trained CNN model** for accurate traffic sign classification.  
 ✔️ **Streamlit-based web interface** for easy image upload and prediction.  
 ✔️ **Supports 43 traffic sign classes** from the German Traffic Sign Dataset.  
-✔️ **Pre-trained model (traffic_classifier.h5)** included for instant predictions.  
+✔️ **Pre-trained model (traffic_sign.h5)** included for instant predictions.  
 
 
 <img src="https://raw.githubusercontent.com/sanjanmiller/Deep-Learning-Based-Traffic-Sign-Recognition-Web-App/refs/heads/main/Traffic%20SS_1.JPG" width="600">
