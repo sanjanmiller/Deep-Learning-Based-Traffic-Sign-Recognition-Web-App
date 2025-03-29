@@ -5,7 +5,7 @@ This project is a **Deep Learning-based Traffic Sign Classifier** built with **T
 ## 📌 Features  
 ✔️ **Trained CNN model** for accurate traffic sign classification.  
 ✔️ **Streamlit-based web interface** for easy image upload and prediction.  
-✔️ **Supports 43 traffic sign classes** from the German Traffic Sign Recognition Benchmark (GTSRB) dataset.  
+✔️ **Supports 43 traffic sign classes** from the [German Traffic Sign Recognition Benchmark (GTSRB) dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).  
 ✔️ **Pre-trained model (traffic_sign.h5)** included for instant predictions.  
 
 ---
@@ -28,4 +28,3 @@ pip install -r requirements.txt
 
 ### **3️⃣ Run the Web App**  
 streamlit run traffic_sign_streamlit.py  
-
