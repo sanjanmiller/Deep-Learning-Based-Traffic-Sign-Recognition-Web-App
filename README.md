@@ -24,8 +24,8 @@ This project is a **Deep Learning-based Traffic Sign Classifier** built with **T
 git clone https://github.com/sanjanmiller/Deep-Learning-Based-Traffic-Sign-Recognition-Web-App.git
 cd Deep-Learning-Based-Traffic-Sign-Recognition-Web-App
 
-**2️⃣ Install Dependencies**
+## **2️⃣ Install Dependencies**
 pip install -r requirements.txt
 
-**3️⃣ Run the Web App**
+## **3️⃣ Run the Web App**
 streamlit run traffic_sign_streamlit.py
